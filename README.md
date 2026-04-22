@@ -155,3 +155,11 @@ Linux server administration
 Web server configuration (Nginx)
 File transfer and deployment
 DNS management and propagation
+
+
+
+
+
+
+## Notion Link
+https://swamp-diadem-74c.notion.site/Hosting-a-simple-website-in-Virtual-Machine-Azure-or-AWS-2ff5e80cc23580b5b66fdcf946fdab53?source=copy_link
